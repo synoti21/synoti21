@@ -5,9 +5,10 @@
 - Majored in Computer Science at Chung-ang University (2019.3 ~ )
 ---
 ## Experiences
+- Cloud Club 5th Member (24.03 ~ )
 - 2023 Open Source Contribution `Argo Worflows` mentee (23.07 ~ 23.10)
 - Google Developer Students Club / Core Member (CI/CD) (23.09 ~ )
-- BOAZ 20th Engineering Member / Management (23.01 ~ )
+- BOAZ 20th Engineering Member / Management (23.01 ~ 24.01)
 - UMC 2nd Member (22.03 ~ 22.08)
 ---
 ## Open Source Contribution
