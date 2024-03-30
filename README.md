@@ -14,6 +14,12 @@
 ## Open Source Contribution
 - [docs: modify demo image in intermediate-inputs.md #11755](https://github.com/argoproj/argo-workflows/pull/11755)
 ---
+## Certificates
+<p align="center">
+<a href="https://www.credly.com/badges/5e33690e-fb7e-41a7-bffd-55a98cd02c70/public_url"><img width=200 src="https://github.com/synoti21/synoti21/blob/main/cka.png"/></a>
+</p>
+
+---
 ## Tech Stack
 
 ### Language
