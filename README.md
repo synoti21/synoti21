@@ -2,7 +2,7 @@
 
 ## Who am I
 - Mainly interested in `Backend`, `DevOps`
-- Majored in Computer Science at Chung-ang University (19.03 ~ )
+- Majored in Computer Science at `Chung-ang University` (19.03 ~ )
 - Currently working on `Wrtn Technologies` as a `Platform Engineer (Intern)` (24.03 ~ )
 ---
 ## Experiences
