@@ -2,14 +2,16 @@
 
 ## Who am I
 - Mainly interested in `Backend`, `DevOps`
-- Majored in Computer Science at Chung-ang University (2019.3 ~ )
+- Majored in Computer Science at Chung-ang University (19.03 ~ )
+- Currently working on `Wrtn Technologies` as a `Platform Engineer (Intern)` (24.03 ~ )
 ---
 ## Experiences
-- Cloud Club 5th Member (24.03 ~ )
-- 2023 Open Source Contribution `Argo Worflows` mentee (23.07 ~ 23.10)
-- Google Developer Students Club / Core Member (CI/CD) (23.09 ~ )
-- BOAZ 20th Engineering Member / Management (23.01 ~ 24.01)
-- UMC 2nd Member (22.03 ~ 22.08)
+- Platform Engineer Intern (`Wrtn Technologies`, 24.03 ~ )
+- `Cloud Club` 5th Member (24.03 ~ )
+- 2023 Open Source Contribution `Argo Workflows` mentee (23.07 ~ 23.10)
+- `Google Developer Students Club` / Core Member (CI/CD) (23.09 ~ )
+- `BOAZ` 20th Engineering Member / Management (23.01 ~ 24.01)
+- `UMC` 2nd Member (22.03 ~ 22.08)
 ---
 ## Open Source Contribution
 - [docs: modify demo image in intermediate-inputs.md #11755](https://github.com/argoproj/argo-workflows/pull/11755)
