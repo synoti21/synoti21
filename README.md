@@ -1,7 +1,7 @@
 <div align = center><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:002B5B,100:144272&amp;height=260&amp;fontColor=FFFFFF&amp;section=header&amp;fontAlignY=38&amp;text=Jiwan%20Ahn&amp;desc=Develop,%20not%20code.&amp;descAlign=62&amp;descAlignY=55&amp;animation=fadeIn" alt="header"></div>
 
 ## Who am I
-- Mainly interested in `Backend`, `DevOps`
+- Mainly interested in `DevOps`, `Cloud`
 - Majored in Computer Science at `Chung-ang University` (19.03 ~ )
 - Currently working on `Wrtn Technologies` as a `Platform Engineer (Intern)` (24.03 ~ )
 ---
