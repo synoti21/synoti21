@@ -3,10 +3,11 @@
 ## Who am I
 - Mainly interested in `DevOps`, `Cloud`
 - Majored in Computer Science at `Chung-ang University` (19.03 ~ )
-- Currently working on `Wrtn Technologies` as a `Platform Engineer (Intern)` (24.03 ~ )
+- Currently working on `Wrtn Technologies` as a `Platform Engineer (Intern)` (24.03 ~ 24.06)
 ---
 ## Experiences
-- Platform Engineer Intern (`Wrtn Technologies`, 24.03 ~ )
+- `AUSG` 8th member (24.07 ~ )
+- Platform Engineer Intern (`Wrtn Technologies`, 24.03 ~ 24.06)
 - `Cloud Club` 5th Member (24.03 ~ )
 - 2023 Open Source Contribution `Argo Workflows` mentee (23.07 ~ 23.10)
 - `Google Developer Students Club` / Core Member (CI/CD) (23.09 ~ )
