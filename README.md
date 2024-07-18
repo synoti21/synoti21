@@ -3,7 +3,6 @@
 ## Who am I
 - Mainly interested in `DevOps`, `Cloud`
 - Majored in Computer Science at `Chung-ang University` (19.03 ~ )
-- Currently working on `Wrtn Technologies` as a `Platform Engineer (Intern)` (24.03 ~ 24.06)
 ---
 ## Experiences
 - `AUSG` 8th member (24.07 ~ )
