@@ -1,11 +1,12 @@
 <div align = center><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:002B5B,100:144272&amp;height=260&amp;fontColor=FFFFFF&amp;section=header&amp;fontAlignY=38&amp;text=Jiwan%20Ahn&amp;desc=Engineer,%20to%20be%20a%20Pioneer.&amp;descAlign=62&amp;descAlignY=55&amp;animation=fadeIn" alt="header"></div>
 
 ## Who am I
-- SRE Intern (`Moloco`, 24.08 ~ )
+- SRE at `Moloco` (25.01 ~ )
 - Mainly interested in `DevOps`, `Cloud`
 - Majored in Computer Science at `Chung-ang University` (19.03 ~ )
 ---
 ## Experiences
+- SRE Intern (`Moloco`, 24.08 ~ 24.11)
 - `AUSG` 8th member (24.07 ~ )
 - Platform Engineer Intern (`Wrtn Technologies`, 24.03 ~ 24.06)
 - `Cloud Club` 5th Member (24.03 ~ )
