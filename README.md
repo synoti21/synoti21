@@ -9,7 +9,7 @@
 - SRE Intern (`Moloco`, 24.08 ~ 24.11)
 - `AUSG` 8th member (24.07 ~ )
 - Platform Engineer Intern (`Wrtn Technologies`, 24.03 ~ 24.06)
-- `Cloud Club` 5th Member (24.03 ~ )
+- `Cloud Club` 5th Member (24.03 ~ 24.06)
 - 2023 Open Source Contribution `Argo Workflows` mentee (23.07 ~ 23.10)
 - `Google Developer Students Club` / Core Member (CI/CD) (23.09 ~ )
 - `BOAZ` 20th Engineering Member / Management (23.01 ~ 24.01)
